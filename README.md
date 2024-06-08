@@ -22,7 +22,7 @@
   ## Tampilan Tabel
   <img src="P12 - hasil tabel.png" img>
 
-- Desain Databases
+  ## Desain Databases
   <img src="P12 - desain databases.png" img>
   
 - Buat repo di github dengan judul tugas koneksi
