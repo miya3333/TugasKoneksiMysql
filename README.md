@@ -14,7 +14,7 @@
   
 # 2. Buat koneksi dengan php.
   ## File untuk penjelasan 📝
-  > `indexExplain.php` & `functionsExplain.php`
+  > `indexExplain.php`  <br> `functionsExplain.php`
   
   ## File utama tugas 🛠
   ### `functions.php`
