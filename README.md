@@ -2,7 +2,7 @@
 `Aldi Hermansyah`
 `Teknik Informatika 23.A2`
 `Universitas Pelita Bangsa`
-===
+---
 
 # Tugas Koneksi Mysql
 `Tugas Basis Data`
