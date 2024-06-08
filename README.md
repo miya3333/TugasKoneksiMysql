@@ -3,13 +3,13 @@
 `Teknik Informatika 23.A2` <br>
 `Universitas Pelita Bangsa`
 
-# Tugas Koneksi Mysql
+# Tugas Koneksi Mysql 📎
 `Tugas Basis Data` <br>
 `Pertemuan 12 Semester 2`
 > click the photo if you want to see it in full
 
 # 1. Menggunakan data yang dibuat dari soal Uts kemarin.
-  ## Database
+  ## Database 🗃️
   <img src="P12 - 1 database aldihermansyah312310200.png" width="500" img> <img src="P12 - 2 database aldihermansyah312310200.png" width="400" img>
   
 # 2. Buat koneksi dengan php.
@@ -24,14 +24,14 @@
   <img src="P12 - php index.png" width="700" img>
   
 # 3. Tampilkan data tabelnya masing2.
-  ## Tampilan Tabel
+  ## Tampilan Tabel 🗂️
   <img src="P12 - hasil tabel.png" img>
 
-  ## Desain Databases
+  ## Desain Databases 📊
   <img src="P12 - desain databases.png" img>
   
 # 4. Buat repo di github dengan judul tugas koneksi
-  ## Repository
+  ## Repository 📋
   <img src="P12 - repository.png" img>
   
 # 5. Contoh ->
