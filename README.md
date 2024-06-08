@@ -3,8 +3,7 @@
 `Teknik Informatika 23.A2`
 `Universitas Pelita Bangsa`
 ===
----
-___
+
 # Tugas Koneksi Mysql
 `Tugas Basis Data`
 `Pertemuan 12 Semester 2`
