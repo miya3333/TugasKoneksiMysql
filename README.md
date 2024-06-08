@@ -1,7 +1,9 @@
 # Authors
-> Aldi Hermansyah Teknik Informatika 23.A2 Universitas Pelita Bangsa
+> Aldi Hermansyah Teknik Informatika 23.A2
+> Universitas Pelita Bangsa
 
 # Tugas Koneksi Mysql
+> Tugas Basis Data Pertemuan 12 Semester 2
 > click the photo if you want to see it in full
 - Menggunakan data yang dibuat dari soal Uts kemarin.
   ## Database
