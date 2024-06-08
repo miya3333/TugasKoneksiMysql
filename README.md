@@ -5,5 +5,5 @@
 
 ### File yang lain untuk uji coba 📝
 
-## Credit
+## Authors
 > Aldi Hermansyah Teknik Informatika 23.A2
