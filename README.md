@@ -1,9 +1,11 @@
 # Authors
-> Aldi Hermansyah Teknik Informatika 23.A2
-> Universitas Pelita Bangsa
+`Aldi Hermansyah`
+`Teknik Informatika 23.A2`
+`Universitas Pelita Bangsa`
 
 # Tugas Koneksi Mysql
-> Tugas Basis Data Pertemuan 12 Semester 2
+`Tugas Basis Data`
+`Pertemuan 12 Semester 2`
 > click the photo if you want to see it in full
 - Menggunakan data yang dibuat dari soal Uts kemarin.
   ## Database
@@ -14,10 +16,10 @@
   > indexExplain.php & functionsExplain.php
   
   ## File utama tugas 🛠
-  ### functions.php
+  ### `functions.php`
   <img src="P12 - php functions.png" width="500" img>
 
-  ### index.php
+  ### `index.php`
   <img src="P12 - php index.png" width="700" img>
   
 - Tampilkan data tabelnya masing2.
@@ -33,6 +35,6 @@
   
 - Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
 - https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
-  ## Link <a href="https://github.com/miya3333/TugasKoneksiMysql">Github</a>
+  ## Link <a href="https://github.com/miya3333/TugasKoneksiMysql">`Github`</a>
   
-- Kumpulkan di ecampus waktu 1 minggu (Jum'at, 14-06-2024 08:47:00)
+- Kumpulkan di ecampus waktu 1 minggu (`Jum'at, 14-06-2024 08:47:00`)
