@@ -42,4 +42,4 @@ https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
   ## Link <a href="https://github.com/miya3333/TugasKoneksiMysql">`Github Saya`</a>
   
 # 7. Kumpulkan di ecampus waktu 1 minggu
-`Jum'at 14-06-2024 08:47:00`
+## `Jum'at 14-06-2024 08:47:00`
