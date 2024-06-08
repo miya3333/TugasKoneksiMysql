@@ -1,5 +1,5 @@
 # Authors
-> Aldi Hermansyah Teknik Informatika 23.A2
+> Aldi Hermansyah Teknik Informatika 23.A2 Universitas Pelita Bangsa
 
 # Tugas Koneksi Mysql
 > click the photo if you want to see it in full
