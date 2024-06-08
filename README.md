@@ -2,7 +2,9 @@
 `Aldi Hermansyah`
 `Teknik Informatika 23.A2`
 `Universitas Pelita Bangsa`
-
+===
+---
+___
 # Tugas Koneksi Mysql
 `Tugas Basis Data`
 `Pertemuan 12 Semester 2`
@@ -36,7 +38,7 @@
   
 # 5. Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
 
-# 6.
+# 6. Contoh ->
 https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
   ## Link <a href="https://github.com/miya3333/TugasKoneksiMysql">`Github`</a>
   
