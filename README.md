@@ -36,7 +36,9 @@
   
 # 5. Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
 
-# 6. https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
+# 6.
+https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
   ## Link <a href="https://github.com/miya3333/TugasKoneksiMysql">`Github`</a>
   
-# 7. Kumpulkan di ecampus waktu 1 minggu (`Jum'at, 14-06-2024 08:47:00`)
+# 7. Kumpulkan di ecampus waktu 1 minggu
+`Jum'at, 14-06-2024 08:47:00`
