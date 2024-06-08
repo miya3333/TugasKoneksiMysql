@@ -9,7 +9,10 @@
   <img src="P12 - 2 database aldihermansyah312310200.png" width="500" img>
   
 - Buat koneksi dengan php.
-  ## File yang lain hanya untuk uji coba 📝
+  ## File untuk penjelasan 📝
+  > indexExplain.php
+  > functionsExplain.php
+  
   ## File utama tugas 🛠
   ### File index.php
   <img src="P12 - php index.png" height="700" img>
