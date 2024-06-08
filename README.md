@@ -3,7 +3,7 @@
 `Teknik Informatika 23.A2` <br>
 `Universitas Pelita Bangsa`
 
-# Tugas Koneksi Mysql 📎
+# Tugas Koneksi Mysql
 `Tugas Basis Data` <br>
 `Pertemuan 12 Semester 2`
 > click the photo if you want to see it in full
@@ -39,7 +39,7 @@ https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
 
 # 6. Contoh ->
 https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
-> ## Link <a href="https://github.com/miya3333/TugasKoneksiMysql">`Github`</a>
+> ## 📎 Link <a href="https://github.com/miya3333/TugasKoneksiMysql">`Github`</a>
   
 # 7. Kumpulkan di ecampus waktu 1 minggu
 > `Jum'at` `14-06-2024` <br>
