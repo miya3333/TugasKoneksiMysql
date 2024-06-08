@@ -5,8 +5,7 @@
 > click the photo if you want to see it in full
 - Menggunakan data yang dibuat dari soal Uts kemarin.
   ## Database
-  <img src="P12 - 1 database aldihermansyah312310200.png" width="500" img>
-  <img src="P12 - 2 database aldihermansyah312310200.png" width="500" img>
+  <img src="P12 - 1 database aldihermansyah312310200.png" width="500" img> <img src="P12 - 2 database aldihermansyah312310200.png" width="400" img>
   
 - Buat koneksi dengan php.
   ## File untuk penjelasan 📝
@@ -17,7 +16,7 @@
   <img src="P12 - php index.png" height="700" img>
 
   ### File functions.php
-  <img src="P12 - php functions.png" img>
+  <img src="P12 - php functions.png" width="500" img>
   
 - Tampilkan data tabelnya masing2.
   ## Tampilan Tabel
