@@ -13,7 +13,7 @@
   
 - Buat koneksi dengan php.
   ## File untuk penjelasan 📝
-  > indexExplain.php & functionsExplain.php
+  > `indexExplain.php` & `functionsExplain.php`
   
   ## File utama tugas 🛠
   ### `functions.php`
