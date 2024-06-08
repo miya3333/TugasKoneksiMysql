@@ -12,10 +12,10 @@
   > indexExplain.php & functionsExplain.php
   
   ## File utama tugas 🛠
-  ### File functions.php
+  ### functions.php
   <img src="P12 - php functions.png" width="500" img>
 
-  ### File index.php
+  ### index.php
   <img src="P12 - php index.png" height="700" img>
   
 - Tampilkan data tabelnya masing2.
