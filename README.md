@@ -16,7 +16,7 @@
   <img src="P12 - php functions.png" width="500" img>
 
   ### index.php
-  <img src="P12 - php index.png" height="700" img>
+  <img src="P12 - php index.png" width="700" img>
   
 - Tampilkan data tabelnya masing2.
   ## Tampilan Tabel
