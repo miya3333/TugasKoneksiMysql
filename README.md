@@ -14,6 +14,7 @@
   ## File utama tugas 🛠
   ### File functions.php
   <img src="P12 - php functions.png" width="500" img>
+
   ### File index.php
   <img src="P12 - php index.png" height="700" img>
   
