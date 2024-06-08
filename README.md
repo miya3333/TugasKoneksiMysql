@@ -2,32 +2,35 @@
 > Aldi Hermansyah Teknik Informatika 23.A2
 
 # Tugas Koneksi Mysql
-1. Menggunkan data yang dibuat dari soal Uts kemarin.
-2. Buat koneksi dengan php.
-3. Tampilkan data tabelnya masing2.
-4. Buat repo di github dengan judul tugas koneksi
-5. Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
-6. https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
-7. Kumpulkan di ecampus waktu 1 minggu (Jum'at, 14-06-2024 08:47:00)
-
-## Database
-<img src="P12 - 1 database aldihermansyah312310200.png" img>
-<img src="P12 - 2 database aldihermansyah312310200.png" img>
-
-## File utama tugas 🛠
-### File index.php
-  <img src="P12 - php index.png" img>
+> click the photo if you want to see it in full
+- Menggunakan data yang dibuat dari soal Uts kemarin.
+  ## Database
+  <img src="P12 - 1 database aldihermansyah312310200.png" width="500" img>
+  <img src="P12 - 2 database aldihermansyah312310200.png" width="500" img>
   
-### File functions.php
-<img src="P12 - php functions.png" img>
+- Buat koneksi dengan php.
+  ## File yang lain hanya untuk uji coba 📝
+  ## File utama tugas 🛠
+  ### File index.php
+  <img src="P12 - php index.png" height="700" img>
 
-## File yang lain hanya untuk uji coba 📝
+  ### File functions.php
+  <img src="P12 - php functions.png" img>
+  
+- Tampilkan data tabelnya masing2.
+  ## Tampilan Tabel
+  <img src="P12 - hasil tabel.png" img>
 
-## Tampilan Tabel
-<img src="P12 - hasil tabel.png" img>
-
-## Repository
-<img src="P12 - repository.png" img>
-
-## Link
-<a href="https://github.com/miya3333/TugasKoneksiMysql.git">Github</a>
+- Desain Databases
+  <img src="P12 - desain databases.png" img>
+  
+- Buat repo di github dengan judul tugas koneksi
+  ## Repository
+  <img src="P12 - repository.png" img>
+  
+- Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
+- https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
+  ## Link
+  <a href="https://github.com/miya3333/TugasKoneksiMysql.git">Github</a>
+  
+- Kumpulkan di ecampus waktu 1 minggu (Jum'at, 14-06-2024 08:47:00)
