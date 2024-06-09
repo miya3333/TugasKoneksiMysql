@@ -10,7 +10,8 @@
 
 # 1. Menggunakan data yang dibuat dari soal Uts kemarin.
   ## Database 🗃️
-  <img src="P12 - 1 database aldihermansyah312310200.png" width="500" img> <img src="P12 - 2 database aldihermansyah312310200.png" width="400" img>
+  <img src="P12 - 1 database aldihermansyah312310200.png" width="500" img>
+  <img src="P12 - 2 database aldihermansyah312310200.png" width="400" img>
   
 # 2. Buat koneksi dengan php.
   ## File untuk penjelasan 📝
@@ -25,6 +26,7 @@
   
 # 3. Tampilkan data tabelnya masing2.
   ## Tampilan Tabel 🗂️
+  > Saya menggunakan css untuk mempermudah dalam membaca isi tabel dari database.
   <img src="P12 - hasil tabel.png" img>
 
   ## Desain Databases 📊
