@@ -1,0 +1,50 @@
+.container {
+    width: 100%;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    width: fit-content;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #dbdbdb;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.middle {
+    margin: 20px 0 20px 0;
+}
+
+.top, .middle, .bottom {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.bus, .jadwal, .pelanggan, .detail, .pemesanan {
+    padding: 0 20px 20px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    background-color: #dbdbdb;
+}
+.bus, .jadwal, .pelanggan, .detail, .pemesanan {
+    flex-direction: column;
+}
+
+tr {
+    border: rgba(0, 0, 0, 0.25);
+}
