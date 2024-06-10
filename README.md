@@ -26,7 +26,7 @@
   
 # 3. Tampilkan data tabelnya masing2.
   ## Tampilan Tabel 🗂️
-  > Saya menggunakan css untuk mempermudah dalam membaca isi tabel dari database.
+  > I used CSS to make it easier to read the table contents from the database.
   <img src="P12 - hasil tabel.png" img>
 
   ## Desain Databases 📊
