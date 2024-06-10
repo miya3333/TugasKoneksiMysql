@@ -10,9 +10,9 @@
 
 # 1. Menggunakan data yang dibuat dari soal Uts kemarin.
   ## Database 🗃️
-  <img src="P12 - 1 database uts.png" img>
-  <img src="P12 - 2 database uts.png" img>
-  <img src="P12 - 3 database uts.png" img>
+  <img src="P12 - database uts 1.png" img>
+  <img src="P12 - database uts 2.png" img>
+  <img src="P12 - database uts 3.png" img>
   
 # 2. Buat koneksi dengan php.
   ## File untuk penjelasan 📝
