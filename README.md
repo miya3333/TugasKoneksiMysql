@@ -11,7 +11,8 @@
 # 1. Menggunakan data yang dibuat dari soal Uts kemarin.
   ## Database 🗃️
   <img src="P12 - 1 database aldihermansyah312310200.png" width="500" img>
-  <img src="P12 - 2 database aldihermansyah312310200.png" width="400" img>
+  <img src="P12 - 2 database aldihermansyah312310200.png" width="500" img>
+  <img src="P12 - 3 database aldihermansyah312310200.png" width="500" img>
   
 # 2. Buat koneksi dengan php.
   ## File untuk penjelasan 📝
