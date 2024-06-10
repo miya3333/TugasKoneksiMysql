@@ -20,10 +20,10 @@
   
   ## File utama tugas 🛠
   > ### `functions.php`
-  <img src="P12 - php functions.png" width="500" img>
+  <img src="P12 - php functions.png" img>
 
   > ### `index.php`
-  <img src="P12 - php index.png" width="700" img>
+  <img src="P12 - php index.png" img>
   
 # 3. Tampilkan data tabelnya masing2.
   ## Tampilan Tabel 🗂️
