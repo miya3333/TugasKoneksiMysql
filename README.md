@@ -38,10 +38,10 @@
   ## Repository 📋
   <img src="P12 - repository.png" img>
   
-# 5. Contoh ->
+# 5. Contoh
 > https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
 
-# 6. Contoh ->
+# 6. Contoh
 > https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
 > ## Link <a href="https://github.com/miya3333/TugasKoneksiMysql">`Github`</a> 📎
   
