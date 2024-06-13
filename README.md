@@ -6,7 +6,6 @@
 # Tugas Koneksi Mysql
 `Tugas Basis Data` <br>
 `Pertemuan 12 Semester 2`
-> click the photo if you want to see it in full
 
 # 1. Menggunakan data yang dibuat dari soal Uts kemarin.
   ## Database 🗃️
@@ -15,10 +14,7 @@
   <img src="P12 - database uts 3.png" img>
   
 # 2. Buat koneksi dengan php.
-  ## File untuk penjelasan 📝
-  > `indexExplain.php`  <br> `functionsExplain.php`
-  
-  ## File utama tugas 🛠
+  ## File tugas 🛠
   > ### `functions.php`
   <img src="P12 - php functions.png" img>
 
@@ -27,7 +23,6 @@
   
 # 3. Tampilkan data tabelnya masing2.
   ## Tampilan Tabel 🗂️
-  > I used CSS to make it easier to read the table contents from the database.
 
 <img src="P12 - tabel 1.png" img><img src="P12 - tabel 2.png" img><img src="P12 - tabel 3.png" img>
 
